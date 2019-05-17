@@ -71,7 +71,18 @@ button:disabled {
     box-shadow: 0px 0px 17px 1px #1D1F26;
     background: #F7F7FA;
     padding: 24px;
-    width: 250px;
+    width: 300px;
+}
+.suggestion-form__box {
+    box-shadow: 0px 0px 17px 1px #1D1F26;
+    margin-right: 5px;
+    background: rgb(37,9,121);
+    background: linear-gradient(90deg, rgba(37,9,121,0.927608543417367) 0%, rgba(171,0,255,0.8491771708683473) 100%);
+    padding: 10px;
+    width: 500px;
+    height: 332px;
+    text-align: center;
+    color: white;
 }
 
 .centered-form button {
